@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ig-reels/static/css/main.ec2c5395.chunk.css",
+    "main.js": "/Ig-reels/static/js/main.7ac32288.chunk.js",
+    "main.js.map": "/Ig-reels/static/js/main.7ac32288.chunk.js.map",
+    "runtime-main.js": "/Ig-reels/static/js/runtime-main.52443102.js",
+    "runtime-main.js.map": "/Ig-reels/static/js/runtime-main.52443102.js.map",
+    "static/js/2.155325c7.chunk.js": "/Ig-reels/static/js/2.155325c7.chunk.js",
+    "static/js/2.155325c7.chunk.js.map": "/Ig-reels/static/js/2.155325c7.chunk.js.map",
+    "index.html": "/Ig-reels/index.html",
+    "precache-manifest.4e9341d98951a0646d4e31960a017480.js": "/Ig-reels/precache-manifest.4e9341d98951a0646d4e31960a017480.js",
+    "service-worker.js": "/Ig-reels/service-worker.js",
+    "static/css/main.ec2c5395.chunk.css.map": "/Ig-reels/static/css/main.ec2c5395.chunk.css.map",
+    "static/js/2.155325c7.chunk.js.LICENSE.txt": "/Ig-reels/static/js/2.155325c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52443102.js",
+    "static/js/2.155325c7.chunk.js",
+    "static/css/main.ec2c5395.chunk.css",
+    "static/js/main.7ac32288.chunk.js"
+  ]
+}
